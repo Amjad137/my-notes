@@ -110,7 +110,7 @@ gcloud run deploy easna-api --source .
 ```env
 NODE_ENV=production
 PORT=3000
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/easna
+MONGODB_UR=mongodb+srv://username:password@cluster.mongodb.net/easna
 FRONTEND_URL=https://your-frontend-domain.com
 ACCESS_TOKEN_SECRET=your_super_secret_key_here
 REFRESH_TOKEN_SECRET=your_refresh_secret_key_here
@@ -164,7 +164,7 @@ flyctl launch
 flyctl deploy
 
 # 3. Set secrets
-flyctl secrets set MONGODB_URI="your_uri"
+flyctl secrets set MONGODB_UR="your_uri"
 flyctl secrets set ACCESS_TOKEN_SECRET="your_secret"
 # ... add all other secrets
 ```

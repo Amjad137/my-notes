@@ -66,7 +66,7 @@ gcloud run services update easna-api \
 
 gcloud run services update easna-api \
   --region us-central1 \
-  --set-env-vars MONGODB_URI="your_mongodb_connection_string"
+  --set-env-vars MONGODB_UR="your_mongodb_connection_string"
 
 gcloud run services update easna-api \
   --region us-central1 \
