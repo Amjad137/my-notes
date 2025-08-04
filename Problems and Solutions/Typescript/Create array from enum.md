@@ -1,0 +1,1 @@
+Array.from(Object.values(NON_PHOTOGRAPHIC_ID_TYPE))

@@ -1,0 +1,1 @@
+  status: Exclude<SNITCH_STATUS, SNITCH_STATUS.ALL>;

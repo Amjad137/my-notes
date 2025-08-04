@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "d44117eb93a9cf26",
+    "type": "split",
+    "children": [
+      {
+        "id": "818bc4bdec353a99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "540ec58726822f4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React Component to PDF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6740051c6acd9ab5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b949f839948c8ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0ec20b9d71fe126",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad1886a5e8d80a57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73ed021cfc774070",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87a72ecd3383992a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f34a7af02fc4c9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eda4a032badfdb84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React Component to PDF.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa6658646245acca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "React Component to PDF.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa050fbdc9e38c9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ad58000b7531ed44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "React Component to PDF.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "540ec58726822f4c",
+  "lastOpenFiles": [
+    "React Component to PDF.md"
+  ]
+}

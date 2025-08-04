@@ -1,0 +1,1 @@
+.dockerignore and dockerfile should be placed in the home directory while all the other files should be in  .github/workflows/ directory

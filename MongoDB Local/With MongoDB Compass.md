@@ -1,0 +1,1 @@
+1. easy just open compass and click Database and click create database, that's it.

@@ -1,0 +1,1 @@
+[Mongoose v8.7.2: Mongoose: Schemas in TypeScript](https://mongoosejs.com/docs/typescript/schemas.html)

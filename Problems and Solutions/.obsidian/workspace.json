@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "2d661f32122c285f",
+    "type": "split",
+    "children": [
+      {
+        "id": "492972500e2518ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26321972914b5236",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Revert.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Revert"
+            }
+          },
+          {
+            "id": "2becdf82ac0e501a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MongoDB/$facet in mongo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "$facet in mongo"
+            }
+          },
+          {
+            "id": "91f6c4d931dbbe3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "e5f332189eb53a59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dq-analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dq-analysis"
+            }
+          },
+          {
+            "id": "c7c507e6a5ed036a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DJango/Project Initialization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Initialization"
+            }
+          },
+          {
+            "id": "f27392a226317a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "baaaa59e39ec0ea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Undo the last commit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Undo the last commit"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6fa90f9748dbfc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ee1683437cece56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04253b1b49105be8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d53b3b4719e7d1d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9010d2b3def14866",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "969346c744851de3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c75839978e89986",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c74f43d5c828eac8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MongoDB/Schema, Model and Entity Differences.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Schema, Model and Entity Differences"
+            }
+          },
+          {
+            "id": "21a40cbc2ae60a9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MongoDB/Schema, Model and Entity Differences.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Schema, Model and Entity Differences"
+            }
+          },
+          {
+            "id": "0fc99ffee9b914fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5121b72a17d43121",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MongoDB/Schema, Model and Entity Differences.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Schema, Model and Entity Differences"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c7c507e6a5ed036a",
+  "lastOpenFiles": [
+    "dq-analysis2.md",
+    "dq-analysis.md",
+    "Untitled.md",
+    "DJango/Project Initialization.md",
+    "NextJs/Intercepted Routes.md",
+    "DJango",
+    "MongoDB/$options in MongoDB.md",
+    "Git/Undo the last commit.md",
+    "HonoJS/Host on Cloud run.md",
+    "HonoJS/HonoJS - Hosting Options.md",
+    "Typescript/Get return type of an async function.md",
+    "Typescript/Indexed access type definition.md",
+    "Typescript/sort alphabetically.md",
+    "Typescript/sort() on arrays for numbers.md",
+    "Typescript/in operator.md",
+    "Typescript/TypeGuard Functions.md",
+    "Git/Undo last revert commit.md",
+    "Git/Git Revert.md",
+    "MongoDB/$facet in mongo.md",
+    "MongoDB/Collection Names.md",
+    "MongoDB/$unwind.md",
+    "NextJs/Navigating an unauthenticated user to the url which he tried to access after authenticated (using middleware server).md",
+    "TailwindCSS/Text-Ellipsis.md",
+    "Yup/Compare Dates.md",
+    "Git/Revert.md",
+    "Git/Cherry Pick.md",
+    "Redis/Config file.md",
+    "Redis",
+    "Pnpm",
+    "React Player - for Videos",
+    "TipTap Editor - React",
+    "VSCode",
+    "Obsidian Tips",
+    "MySQL",
+    "SEO",
+    "Resend Email Service"
+  ]
+}
