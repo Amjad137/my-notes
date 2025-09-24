@@ -69,12 +69,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NextJs/Structure of Folders in NextJS Server.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structure of Folders in NextJS Server"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "fed53f575f820ef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevZee - BWAD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DevZee - BWAD"
+            }
+          },
+          {
+            "id": "ab2501e15135181f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Global Error Handler Middleware.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Global Error Handler Middleware"
+            }
+          },
+          {
+            "id": "9b8c83c24f6783e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postgres/Setup in the docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Setup in the docker"
+            }
+          },
+          {
+            "id": "7993bb841d5dd58b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zod/Convert types automatically (coerce).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Convert types automatically (coerce)"
+            }
+          },
+          {
+            "id": "0e85fbf16fb408d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MongoDB/lean() in MongoDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lean() in MongoDB"
             }
           },
           {
@@ -106,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -138,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "URI",
+                "query": "lean",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -159,8 +229,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,6 +310,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -249,43 +319,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7c507e6a5ed036a",
+  "active": "0e85fbf16fb408d7",
   "lastOpenFiles": [
     "MongoDB/Native MongoDB Services (With Type Casting).md",
-    "dq-analysis2.md",
-    "HonoJS/Host on Cloud run.md",
-    "HonoJS/HonoJS - Hosting Options.md",
-    "NextJs/Structure of Folders in NextJS Server.md",
-    "MongoDB/Usage of Base Service- Native MongoDB.md",
-    "DJango/Project Initialization.md",
-    "dq-analysis.md",
+    "MongoDB/lean() in MongoDB.md",
+    "Redis/Config file.md",
+    "Zod/coerce.md",
+    "Prisma/Relation Names (When 2 local fields relates to a same table).md",
+    "Prisma/Virtual Relation Field in One-to-Many.md",
+    "Mermaid/ER Diagrams Notation.md",
+    "Mermaid Chart - Create complex, visual diagrams with text. A smarter way of creating diagrams.-2025-09-17-135800.png",
+    "Untitled 1.md",
+    "Mermaid",
+    "Zod/Convert types automatically (coerce).md",
     "Untitled.md",
-    "NextJs/Intercepted Routes.md",
+    "NextJs/searchParams in components.md",
+    "Terminal/Random Key Generation using terminal.md",
+    "Prisma/Format Schema.md",
+    "Prisma",
+    "Typescript/Regex functions.md",
+    "RegEx/test() in JS RegEx.md",
+    "Postgres/Setup in the docker.md",
+    "Git/Setting Up Codespace.md",
+    "Postgres",
+    "Pasted image 20250824122147.png",
+    "Screenshot 2025-08-24 121551.png",
+    "Screenshot 2025-08-24 112816.png",
+    "Screenshot 2025-08-24 112533.png",
+    "NextJs/Workspace Packages or Local Package Dependencies.md",
+    "NextJs/Robots.ts for SEO in next.js.md",
+    "NextJs/Sitemap.ts for SEO.md",
+    "NextJs/i18n - internationalization.md",
+    "NextJs/Rest route paramter.md",
+    "NextJs/Locale route parameter.md",
+    "Architecture/Success Response Handler Middleware.md",
+    "Architecture/Global Error Handler Middleware.md",
+    "DevZee-BWAD2.md",
+    "Architecture",
+    "HTTP",
+    "Untitled 1",
     "DJango",
-    "MongoDB/$options in MongoDB.md",
-    "Git/Undo the last commit.md",
-    "Typescript/Get return type of an async function.md",
-    "Typescript/Indexed access type definition.md",
-    "Typescript/sort alphabetically.md",
-    "Typescript/sort() on arrays for numbers.md",
-    "Typescript/in operator.md",
-    "Typescript/TypeGuard Functions.md",
-    "Git/Undo last revert commit.md",
-    "Git/Git Revert.md",
-    "MongoDB/$facet in mongo.md",
-    "MongoDB/Collection Names.md",
-    "MongoDB/$unwind.md",
-    "NextJs/Navigating an unauthenticated user to the url which he tried to access after authenticated (using middleware server).md",
-    "TailwindCSS/Text-Ellipsis.md",
-    "Yup/Compare Dates.md",
     "Redis",
     "Pnpm",
-    "React Player - for Videos",
-    "TipTap Editor - React",
-    "VSCode",
-    "Obsidian Tips",
-    "MySQL",
-    "SEO",
-    "Resend Email Service"
+    "React Player - for Videos"
   ]
 }
