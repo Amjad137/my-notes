@@ -11,32 +11,17 @@
             "id": "be762a002d651c29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unwir/Docremark/plan_pro_yearly.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "plan_pro_yearly"
-            }
-          },
-          {
-            "id": "e4a1d436a82ca3c0",
-            "type": "leaf",
-            "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Problems and Solutions/Docremark/Docremark host on AWS.md",
-                "bFile": "Problems and Solutions/Docremark/Docremark host on AWS.md",
+                "aFile": "Problems and Solutions/Resend Email Service/Setting Up Stes.md",
+                "bFile": "Problems and Solutions/Resend Email Service/Setting Up Stes.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Docremark host on AWS  (Working Tree)"
+              "title": "Diff: Setting Up Stes  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "read pdf",
-                "matchingCase": false,
+                "query": "DATABASE_URL",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -89,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,36 +177,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4a1d436a82ca3c0",
+  "active": "be762a002d651c29",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Docremark/Steps to host on lambda.md",
+    "NextJs/Server in NextJS.md",
+    "Docker/Sample Docker-compose yml file.md",
+    "Docremark/Docremark - cloudflare deployment analysis.md",
+    "Prisma migration.md",
+    "DevOps/Lambda Vs Cloudflare worker.md",
+    "Docremark/Deployment using ECR and workflow.md",
+    "Yup/Compare Dates.md",
+    "Resend Email Service/Setting Up Stes.md",
+    "Unwir/Salance/SalanceProductPlanBrief.md",
+    "Unwir/Business Dashboard.md",
+    "ExpSense/Basic Idea.md",
+    "Axios/Axios Interceptor Hybrid Approach.md",
+    "DevOps/AWS App Runner vs Lambda.md",
+    "HonoJS/API route order is must.md",
+    "HonoJS/API Conflicts.md",
+    "Typescript/Alternative to If conditon check using array.md",
+    "MongoDB/$addToSet`.md",
+    "Docremark/Steps to host on Lambda with supabase.md",
+    "Unwir/Docremark/plan_pro_yearly.md",
     "Unwir/Docremark/plan_pro_monthly.md",
     "Unwir/Docremark/plan_basic_yearly.md",
     "Unwir/Docremark/plan_basic_monthly.md",
     "SSE(Server-sent Events)/How it works.md",
-    "Unwir/Docremark/plan_pro_yearly.md",
     "Unwir/Docremark",
     "Typescript/Contextual typing.md",
     "SSE(Server-sent Events)",
-    "Typescript/Triple Slash Directive.md",
-    "Typescript/toLocaleString() - Get the day out of a Date.md",
-    "Typescript/Timer.md",
-    "Typescript/Testing Error Stack on console.md",
-    "Typescript/sort() on arrays for numbers.md",
-    "Typescript/sort alphabetically.md",
-    "Typescript/Map vs Set.md",
-    "Typescript/Shorthand in map().md",
-    "Typescript/Set - data structure - cousin of Array.md",
-    "Typescript/padStart().md",
-    "Typescript/Get return type of an async function.md",
-    "Typescript/Exclude One Properties from Type.md",
-    "Typescript/debounce() - to delay calling of a function for a certain period.md",
-    "Typescript/Copy to Clipboard.md",
-    "Typescript/Conditionally add object to an Array of objects.md",
-    "Typescript/Asynchronous Operations at Once.md",
-    "Typescript/Array-remove duplicates(using filter).md",
-    "Typescript/Array-remove duplicates using Set (Better Approach).md",
-    "RegEx/test() in JS RegEx.md",
-    "RegEx/Lookaheads.md",
     "Creem",
     "Unwir/Salance",
     "My-Products/PayLink",

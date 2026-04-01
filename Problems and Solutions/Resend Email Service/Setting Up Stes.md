@@ -15,7 +15,7 @@ export default emailClient;
 
 ## Env:
 ```env
-RESEND_API_KEY="re_i8MgZb9k_5eJ8d4TgHqTL2cK8jTeksyuq"
+RESEND_API_KEY=
 ADMIN_EMAILS=unwirdev@gmail.com,sankhaja.unwir@gmail.com
 ```
 
