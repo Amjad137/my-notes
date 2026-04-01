@@ -1,0 +1,1 @@
+"Patient complains of headache and fatigue. Physical examination reveals normal vital signs. Blood pressure is one twenty over seventy-five. Temperature is normal. No signs of distress observed. Patient is alert and cooperative during examination."

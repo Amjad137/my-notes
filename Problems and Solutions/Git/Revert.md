@@ -2,23 +2,7 @@ If you want to **revert changes in Git**, you have several options depending on 
 
 ---
 
-### 1. **Revert a Single Commit**
-Use this if you want to undo a specific commit but keep the rest of the history intact.
-
-#### Command:
-```bash
-git revert <commit-hash>
-```
-
-- This creates a new commit that undoes the changes introduced by the specified commit.
-- Example:
-  ```bash
-  git revert 2a86d98
-  ```
-
----
-
-### 2. **Revert to a Previous State**
+### 1. **Revert to a Previous State**
 Use this if you want to reset your repository to a specific commit.
 
 #### Commands:
@@ -35,6 +19,22 @@ git push --force
   ```
 
 ⚠️ Be cautious when using `--force`. It rewrites history, and other collaborators may lose work if they're not in sync.
+---
+
+### 2. **Revert a Single Commit**
+Use this if you want to undo a specific commit but keep the rest of the history intact.
+
+#### Command:
+```bash
+git revert <commit-hash>
+```
+
+- This creates a new commit that undoes the changes introduced by the specified commit.
+- Example:
+  ```bash
+  git revert 2a86d98
+  ```
+
 
 ---
 

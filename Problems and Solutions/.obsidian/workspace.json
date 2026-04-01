@@ -4,179 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "492972500e2518ab",
+        "id": "b87e121186f7d81b",
         "type": "tabs",
         "children": [
           {
-            "id": "26321972914b5236",
+            "id": "be762a002d651c29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Revert.md",
+                "file": "Unwir/Docremark/plan_pro_yearly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revert"
+              "title": "plan_pro_yearly"
             }
           },
           {
-            "id": "2becdf82ac0e501a",
+            "id": "e4a1d436a82ca3c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "MongoDB/$facet in mongo.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Problems and Solutions/Docremark/Docremark host on AWS.md",
+                "bFile": "Problems and Solutions/Docremark/Docremark host on AWS.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "$facet in mongo"
-            }
-          },
-          {
-            "id": "91f6c4d931dbbe3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "e5f332189eb53a59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dq-analysis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dq-analysis"
-            }
-          },
-          {
-            "id": "c7c507e6a5ed036a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "fed53f575f820ef7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevZee - BWAD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DevZee - BWAD"
-            }
-          },
-          {
-            "id": "ab2501e15135181f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture/Global Error Handler Middleware.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Global Error Handler Middleware"
-            }
-          },
-          {
-            "id": "9b8c83c24f6783e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Postgres/Setup in the docker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Setup in the docker"
-            }
-          },
-          {
-            "id": "7993bb841d5dd58b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zod/Convert types automatically (coerce).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Convert types automatically (coerce)"
-            }
-          },
-          {
-            "id": "0e85fbf16fb408d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MongoDB/lean() in MongoDB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lean() in MongoDB"
-            }
-          },
-          {
-            "id": "f27392a226317a97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "baaaa59e39ec0ea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Undo the last commit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Undo the last commit"
+              "icon": "diff",
+              "title": "Diff: Docremark host on AWS  (Working Tree)"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,8 +68,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lean",
-                "matchingCase": true,
+                "query": "read pdf",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -300,13 +160,23 @@
               "icon": "lucide-list",
               "title": "Outline of Schema, Model and Entity Differences"
             }
+          },
+          {
+            "id": "2dd4afec00184bd9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,51 +186,54 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e85fbf16fb408d7",
+  "active": "e4a1d436a82ca3c0",
   "lastOpenFiles": [
-    "MongoDB/Native MongoDB Services (With Type Casting).md",
-    "MongoDB/lean() in MongoDB.md",
-    "Redis/Config file.md",
-    "Zod/coerce.md",
-    "Prisma/Relation Names (When 2 local fields relates to a same table).md",
-    "Prisma/Virtual Relation Field in One-to-Many.md",
-    "Mermaid/ER Diagrams Notation.md",
-    "Mermaid Chart - Create complex, visual diagrams with text. A smarter way of creating diagrams.-2025-09-17-135800.png",
-    "Untitled 1.md",
-    "Mermaid",
-    "Zod/Convert types automatically (coerce).md",
-    "Untitled.md",
-    "NextJs/searchParams in components.md",
-    "Terminal/Random Key Generation using terminal.md",
-    "Prisma/Format Schema.md",
-    "Prisma",
-    "Typescript/Regex functions.md",
+    "Unwir/Docremark/plan_pro_monthly.md",
+    "Unwir/Docremark/plan_basic_yearly.md",
+    "Unwir/Docremark/plan_basic_monthly.md",
+    "SSE(Server-sent Events)/How it works.md",
+    "Unwir/Docremark/plan_pro_yearly.md",
+    "Unwir/Docremark",
+    "Typescript/Contextual typing.md",
+    "SSE(Server-sent Events)",
+    "Typescript/Triple Slash Directive.md",
+    "Typescript/toLocaleString() - Get the day out of a Date.md",
+    "Typescript/Timer.md",
+    "Typescript/Testing Error Stack on console.md",
+    "Typescript/sort() on arrays for numbers.md",
+    "Typescript/sort alphabetically.md",
+    "Typescript/Map vs Set.md",
+    "Typescript/Shorthand in map().md",
+    "Typescript/Set - data structure - cousin of Array.md",
+    "Typescript/padStart().md",
+    "Typescript/Get return type of an async function.md",
+    "Typescript/Exclude One Properties from Type.md",
+    "Typescript/debounce() - to delay calling of a function for a certain period.md",
+    "Typescript/Copy to Clipboard.md",
+    "Typescript/Conditionally add object to an Array of objects.md",
+    "Typescript/Asynchronous Operations at Once.md",
+    "Typescript/Array-remove duplicates(using filter).md",
+    "Typescript/Array-remove duplicates using Set (Better Approach).md",
     "RegEx/test() in JS RegEx.md",
-    "Postgres/Setup in the docker.md",
-    "Git/Setting Up Codespace.md",
-    "Postgres",
+    "RegEx/Lookaheads.md",
+    "Creem",
+    "Unwir/Salance",
+    "My-Products/PayLink",
+    "Untitled 2.base",
+    "Untitled 3.base",
+    "Untitled.canvas",
+    "Puppeteer",
+    "SST (Serverless Stack)",
+    "AWS",
+    "Mermaid Chart - Create complex, visual diagrams with text. A smarter way of creating diagrams.-2025-09-17-135800.png",
     "Pasted image 20250824122147.png",
     "Screenshot 2025-08-24 121551.png",
     "Screenshot 2025-08-24 112816.png",
-    "Screenshot 2025-08-24 112533.png",
-    "NextJs/Workspace Packages or Local Package Dependencies.md",
-    "NextJs/Robots.ts for SEO in next.js.md",
-    "NextJs/Sitemap.ts for SEO.md",
-    "NextJs/i18n - internationalization.md",
-    "NextJs/Rest route paramter.md",
-    "NextJs/Locale route parameter.md",
-    "Architecture/Success Response Handler Middleware.md",
-    "Architecture/Global Error Handler Middleware.md",
-    "DevZee-BWAD2.md",
-    "Architecture",
-    "HTTP",
-    "Untitled 1",
-    "DJango",
-    "Redis",
-    "Pnpm",
-    "React Player - for Videos"
+    "Screenshot 2025-08-24 112533.png"
   ]
 }
