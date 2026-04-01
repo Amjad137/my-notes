@@ -11,14 +11,14 @@
             "id": "be762a002d651c29",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Problems and Solutions/Resend Email Service/Setting Up Stes.md",
-                "bFile": "Problems and Solutions/Resend Email Service/Setting Up Stes.md",
-                "aRef": ""
+                "file": "Docremark/Steps to host on Lambda with supabase.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Setting Up Stes  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Steps to host on Lambda with supabase"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DATABASE_URL",
+                "query": "R2_ACCESS",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -179,8 +179,9 @@
   },
   "active": "be762a002d651c29",
   "lastOpenFiles": [
-    "Untitled.md",
     "Docremark/Steps to host on lambda.md",
+    "NextJs/Image-proxy for S3 or object storages.md",
+    "Untitled.md",
     "NextJs/Server in NextJS.md",
     "Docker/Sample Docker-compose yml file.md",
     "Docremark/Docremark - cloudflare deployment analysis.md",
@@ -205,7 +206,6 @@
     "Unwir/Docremark/plan_basic_monthly.md",
     "SSE(Server-sent Events)/How it works.md",
     "Unwir/Docremark",
-    "Typescript/Contextual typing.md",
     "SSE(Server-sent Events)",
     "Creem",
     "Unwir/Salance",
