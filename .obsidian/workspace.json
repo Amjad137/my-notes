@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "2d661f32122c285f",
+    "id": "2398a37833ea92fd",
     "type": "split",
     "children": [
       {
-        "id": "d71487a0888c9fa2",
+        "id": "287d875c3238f66f",
         "type": "tabs",
         "children": [
           {
-            "id": "10ebdf649ccc376a",
+            "id": "c149a5779df2b6e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d6fa90f9748dbfc5",
+    "id": "64973c8f18ef47c5",
     "type": "split",
     "children": [
       {
-        "id": "8ee1683437cece56",
+        "id": "cef4a6670273a09c",
         "type": "tabs",
         "children": [
           {
-            "id": "04253b1b49105be8",
+            "id": "1af752b1d4602361",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,16 +44,16 @@
             }
           },
           {
-            "id": "d53b3b4719e7d1d5",
+            "id": "8f966edff72e6f68",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
-                "explainSearch": true,
-                "collapseAll": true,
-                "extraContext": true,
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "9010d2b3def14866",
+            "id": "71c0f42787ed8b63",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "969346c744851de3",
+    "id": "4b40af08e051c9cc",
     "type": "split",
     "children": [
       {
-        "id": "2c75839978e89986",
+        "id": "43183c5083bb2442",
         "type": "tabs",
         "children": [
           {
-            "id": "c74f43d5c828eac8",
+            "id": "e198312c1b69f0e4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MongoDB/Schema, Model and Entity Differences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,50 +99,67 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Schema, Model and Entity Differences"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "21a40cbc2ae60a9e",
+            "id": "7ceba456fe491571",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MongoDB/Schema, Model and Entity Differences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Schema, Model and Entity Differences"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "0fc99ffee9b914fc",
+            "id": "b61c4007bb088c37",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "5121b72a17d43121",
+            "id": "5a5054cd09f54e17",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "07849aba517b656e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "MongoDB/Schema, Model and Entity Differences.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Schema, Model and Entity Differences"
+              "title": "Outline"
             }
           },
           {
-            "id": "2dd4afec00184bd9",
+            "id": "f9944300b452bb11",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -153,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -161,60 +177,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04253b1b49105be8",
-  "lastOpenFiles": [
-    "Docremark/Steps to host on Lambda with supabase.md",
-    "Docremark/Steps to host on lambda.md",
-    "NextJs/Image-proxy for S3 or object storages.md",
-    "Untitled.md",
-    "NextJs/Server in NextJS.md",
-    "Docker/Sample Docker-compose yml file.md",
-    "Docremark/Docremark - cloudflare deployment analysis.md",
-    "Prisma migration.md",
-    "DevOps/Lambda Vs Cloudflare worker.md",
-    "Docremark/Deployment using ECR and workflow.md",
-    "Yup/Compare Dates.md",
-    "Resend Email Service/Setting Up Stes.md",
-    "Unwir/Salance/SalanceProductPlanBrief.md",
-    "Unwir/Business Dashboard.md",
-    "ExpSense/Basic Idea.md",
-    "Axios/Axios Interceptor Hybrid Approach.md",
-    "DevOps/AWS App Runner vs Lambda.md",
-    "HonoJS/API route order is must.md",
-    "HonoJS/API Conflicts.md",
-    "Typescript/Alternative to If conditon check using array.md",
-    "MongoDB/$addToSet`.md",
-    "Unwir/Docremark/plan_pro_yearly.md",
-    "Unwir/Docremark/plan_pro_monthly.md",
-    "Unwir/Docremark/plan_basic_yearly.md",
-    "Unwir/Docremark/plan_basic_monthly.md",
-    "SSE(Server-sent Events)/How it works.md",
-    "Unwir/Docremark",
-    "SSE(Server-sent Events)",
-    "Creem",
-    "Unwir/Salance",
-    "My-Products/PayLink",
-    "Untitled 2.base",
-    "Untitled 3.base",
-    "Untitled.canvas",
-    "Puppeteer",
-    "SST (Serverless Stack)",
-    "AWS",
-    "Mermaid Chart - Create complex, visual diagrams with text. A smarter way of creating diagrams.-2025-09-17-135800.png",
-    "Pasted image 20250824122147.png",
-    "Screenshot 2025-08-24 121551.png",
-    "Screenshot 2025-08-24 112816.png",
-    "Screenshot 2025-08-24 112533.png"
-  ]
+  "active": "c149a5779df2b6e4",
+  "lastOpenFiles": []
 }
